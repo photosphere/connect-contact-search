@@ -48,4 +48,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run contact_search.py
 ```
-
+#### Configuration screenshot
+<img width="1044" alt="Contact Search" src="https://github.com/photosphere/connect-contact-search/assets/3398595/a4eafc63-8e89-4dcb-87b6-0c88e583a662">
