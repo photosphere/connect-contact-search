@@ -1,5 +1,5 @@
-## About Amazon Connect Quick Connects CDK
-This solution can be used to create quick connects and associate/disassociate these with queues.
+## About Amazon Connect Contact Search Tool
+This solution can be used to search contact with specified attributes in Amazon Connect.
 
 ### Installation
 
